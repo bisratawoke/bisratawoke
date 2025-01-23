@@ -1,6 +1,6 @@
 # Hello, Fam! I'm Bisrat Awoke 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Passionate+Software+Engineer;Fullstack+Developer+%7C+Cloud+Enthusiast;Let's+Build+Something+Great!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&width=435&lines=Passionate+Software+Engineer;Fullstack+Developer+%7C+Cloud+Enthusiast;Data+Engineer+%7C+Problem+Solver;Let's+Build+Something+Great!)](https://git.io/typing-svg)
 
 ---
 
